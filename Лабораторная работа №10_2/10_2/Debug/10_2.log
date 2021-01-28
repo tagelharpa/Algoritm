@@ -1,0 +1,3 @@
+﻿  10_2.cpp
+c:\users\тагелхарпа\source\repos\10_2\10_2\10_2.cpp(25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  10_2.vcxproj -> C:\Users\тагелхарпа\source\repos\10_2\Debug\10_2.exe
